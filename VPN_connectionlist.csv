@@ -1,0 +1,4 @@
+id,Name,hostaddress,username,password,domain,vpnType,l2tppsk,rdphost,rdpport,rdpuser,rdppassword
+1,Test VPN server, testvpn.testvpn.com, testvpnuser,testvpnpassword,logindomain,PPTP,,rdphost.testvpn.com,3389,rdpuser,rdppassword
+2,Test VPN server2, testvpn2.testvpn.com, testvpnuser,testvpnpassword,logindomain,L2TP,l2tppresharekey,rdphost.testvpn.com,3389,rdpuser,rdppassword
+3,Test3, testvpn3.testvpn.com, testvpnuser,testvpnpassword,logindomain,PPTP,,rdphost.testvpn.com,3389,rdpuser,rdppassword
